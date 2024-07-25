@@ -164,12 +164,7 @@ cython_debug/
 .pythonlibs/
 .upm/
 .vscode/
-/server/*
-/mydb
-/mydb/users
-/mydb/users/*
-
 *.replit
-*.txt
-*.lock
-*.toml
+/server/*
+/mydb/*
+
