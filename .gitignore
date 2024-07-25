@@ -165,5 +165,5 @@ cython_debug/
 .upm/
 .vscode/
 *.replit
-*.replit_zip_error_log.txt
+/replit_zip_error_log.txt
 /server/*
