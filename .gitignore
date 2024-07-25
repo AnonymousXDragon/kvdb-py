@@ -165,7 +165,9 @@ cython_debug/
 .upm/
 .vscode/
 /server/*
-/mydb/*
+/mydb
+/mydb/users
+/mydb/users/*
 
 *.replit
 *.txt
